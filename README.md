@@ -1,2 +1,5 @@
-# sudoku
-Reads sudoku numbers from puzzle text file and solves it! Compares naive and smart model results. Another class project!
+Using cmd
+Open sudoku folder as current directory
+run "javac src/*.java"
+run "java -cp src Main"
+Follow program instructions!
